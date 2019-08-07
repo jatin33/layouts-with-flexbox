@@ -1,0 +1,16 @@
+{
+  "name": "css-box-model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "boxes.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2"
+  }
+}
